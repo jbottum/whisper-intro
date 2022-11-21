@@ -1,5 +1,5 @@
 # whisper-intro
-Documentation, code and a jupyter notebook, which enaables you to run Whisper on Kubeflow
+Documentation, code and a jupyter notebook, which enables you to run Whisper on Kubeflow
 
 The material in this repo is designed to help users get started with Whisper running on Kubeflow.
 
